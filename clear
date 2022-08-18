@@ -1,0 +1,35 @@
+[33mcommit 1578252ec28a4aa20a2a3427a1e69b85ef417046[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: unknown <chuck.estrada111@google.com>
+Date:   Thu Aug 18 20:29:19 2022 +0800
+
+    STEP5: Add main element
+
+[33mcommit fb6e129c0faca0946818050569903b0525e1a092[m
+Author: unknown <chuck.estrada111@google.com>
+Date:   Thu Aug 18 20:21:44 2022 +0800
+
+    STEP:4 Add Comment TODO add link todo photos
+
+[33mcommit e503aa6bfcd64d0564b7f48a98f281c4cd218d03[m
+Author: unknown <chuck.estrada111@google.com>
+Date:   Thu Aug 18 20:19:10 2022 +0800
+
+    STEP:3 Add P element with text and clean up comments
+
+[33mcommit 501ad7ca9e152a76ab9692b4e74a08bc2de45e5e[m
+Author: unknown <chuck.estrada111@google.com>
+Date:   Thu Aug 18 20:09:32 2022 +0800
+
+    STEP:2 Add h2
+
+[33mcommit e7c8f0222702dc8e4fad4a318a3ab65b99a3c690[m
+Author: unknown <chuck.estrada111@google.com>
+Date:   Thu Aug 18 19:57:35 2022 +0800
+
+    Edit H1
+
+[33mcommit 626e3ed0bc6a755c2fadc41625ffafbb11f925d8[m
+Author: unknown <chuck.estrada111@google.com>
+Date:   Wed Aug 17 21:16:15 2022 +0800
+
+    Create HTML File
